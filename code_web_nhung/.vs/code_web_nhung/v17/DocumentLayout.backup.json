@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\shared\\_layoutprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\shared\\_layoutprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\pump.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\pump.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\robot1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\robot1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\home\\fan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\home\\fan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\code_web_nhung.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:code_web_nhung.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|d:\\downloads\\mon_hoc_nam_3\\hk2\\database\\code_web\\code_web_nhung\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26179143-1708-4A8E-8DF2-58836830C69A}|code_web_nhung.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\_Pump.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\_Pump.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\mainprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\mainprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Pump.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\_Pump.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_Pump.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\_Pump.cshtml",
+              "RelativeToolTip": "Views\\Home\\_Pump.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T01:46:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fan.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\Fan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Fan.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\Fan.cshtml",
+              "RelativeToolTip": "Views\\Home\\Fan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T02:31:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pump.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\Pump.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Pump.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\Pump.cshtml",
+              "RelativeToolTip": "Views\\Home\\Pump.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T02:31:20.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Robot1.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\Robot1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Robot1.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\Robot1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Robot1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T02:31:09.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_layoutprogram.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\_layoutprogram.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_layoutprogram.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\_layoutprogram.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_layoutprogram.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T02:30:39.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\about.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "Views\\Home\\about.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T18:08:30.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "history.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\history.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\history.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\history.cshtml",
+              "RelativeToolTip": "Views\\Home\\history.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T18:07:56.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "code_web_nhung.csproj",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\code_web_nhung.csproj",
+              "RelativeDocumentMoniker": "code_web_nhung.csproj",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\code_web_nhung.csproj",
+              "RelativeToolTip": "code_web_nhung.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T02:48:01.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T02:23:59.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T02:24:02.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\register.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\register.cshtml",
+              "RelativeToolTip": "Views\\Home\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:17:35.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "mainprogram.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\mainprogram.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\mainprogram.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\mainprogram.cshtml",
+              "RelativeToolTip": "Views\\Home\\mainprogram.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:17:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:44:20.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T01:46:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-04T01:46:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T01:46:36.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Views\\Home\\login.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:38:29.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:47:50.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:44:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:44:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:44:11.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:44:07.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:42:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\MON_HOC_NAM_3\\HK2\\DATABASE\\code_web\\code_web_nhung\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAywIQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:32:55.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

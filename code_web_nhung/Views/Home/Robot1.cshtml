@@ -1,0 +1,111 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutProgram.cshtml";
+    ViewData["Title"] = "Động Cơ Robot";
+}
+<h3 class="text-center text-primary">Giám sát Động Cơ Robot1</h3>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div id="temp-box" class="p-3 text-white rounded">
+            <h4>🌡️ Nhiệt Độ</h4>
+            <h2 id="temp-value">--°C</h2>
+            <p id="temp-status">--</p>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div id="vib-box" class="p-3 text-white rounded">
+            <h4>📟 Độ Rung</h4>
+            <h2 id="vib-value">-- G</h2>
+            <p id="vib-status">--</p>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <h5>📊 Biểu Đồ Nhiệt Độ</h5>
+        <canvas id="tempChart"></canvas>
+    </div>
+    <div class="col-md-6">
+        <h5>📈 Biểu Đồ Độ Rung</h5>
+        <canvas id="vibChart"></canvas>
+    </div>
+</div>
+
+<div class="mt-4 p-3 bg-warning rounded text-center" id="overall-status">
+    <strong>Tình trạng tổng thể:</strong> Đang kiểm tra...
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const tempCtx = document.getElementById('tempChart').getContext('2d');
+        const vibCtx = document.getElementById('vibChart').getContext('2d');
+
+        const tempData = { labels: [], datasets: [{ label: 'Nhiệt độ (°C)', data: [], borderColor: 'blue', fill: true }] };
+        const vibData = { labels: [], datasets: [{ label: 'Độ rung (G)', data: [], borderColor: 'purple', fill: true }] };
+
+        const tempChart = new Chart(tempCtx, { type: 'line', data: tempData });
+        const vibChart = new Chart(vibCtx, { type: 'line', data: vibData });
+
+        function updateCharts(temp, vib) {
+            const now = new Date().toLocaleTimeString();
+            if (tempData.labels.length >= 10) {
+                tempData.labels.shift(); tempData.datasets[0].data.shift();
+                vibData.labels.shift(); vibData.datasets[0].data.shift();
+            }
+            tempData.labels.push(now);
+            tempData.datasets[0].data.push(temp);
+
+            vibData.labels.push(now);
+            vibData.datasets[0].data.push(vib);
+
+            tempChart.update();
+            vibChart.update();
+        }
+
+        function updateStatus(data) {
+            document.getElementById("temp-value").textContent = data.temperature + "°C";
+            document.getElementById("vib-value").textContent = data.vibration + " G";
+
+            const tempBox = document.getElementById("temp-box");
+            const vibBox = document.getElementById("vib-box");
+            const tempStatus = document.getElementById("temp-status");
+            const vibStatus = document.getElementById("vib-status");
+
+            if (data.tempStatus === "danger") {
+                tempBox.className = "p-3 text-white rounded bg-danger";
+                tempStatus.textContent = "⚠️ Quá nhiệt!";
+            } else {
+                tempBox.className = "p-3 text-white rounded bg-success";
+                tempStatus.textContent = "✔️ Bình thường";
+            }
+
+            if (data.vibStatus === "danger") {
+                vibBox.className = "p-3 text-white rounded bg-danger";
+                vibStatus.textContent = "⚠️ Nguy hiểm!";
+            } else {
+                vibBox.className = "p-3 text-white rounded bg-success";
+                vibStatus.textContent = "✔️ Bình thường";
+            }
+
+            const statusDiv = document.getElementById("overall-status");
+            if (data.tempStatus === "danger" || data.vibStatus === "danger") {
+                statusDiv.innerHTML = "<strong>Tình trạng tổng thể:</strong> <span class='text-danger'>Cần Kiểm Tra Gấp!!!</span>";
+            } else {
+                statusDiv.innerHTML = "<strong>Tình trạng tổng thể:</strong> <span class='text-success'>Bình thường</span>";
+            }
+
+            updateCharts(data.temperature, data.vibration);
+        }
+
+        function fetchData() {
+            fetch("/Program/GetMotorData?motor=Robot")
+                .then(res => res.json())
+                .then(data => updateStatus(data));
+        }
+
+        fetchData();
+        setInterval(fetchData, 5000);
+    </script>
+}
